@@ -48,4 +48,77 @@ header .logo img{
 	margin-right: 25px;
 }
 
-.mavigation
+.navigation li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.navigation a:hover{
+	color: #1abc9c;
+}
+
+.navigation li:last-child{
+	margin-right: 0;
+}
+
+/*
+** Banner
+*/
+
+.banner {
+	height: 600px;
+	background: url(..img/teaser.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.banner .banner-contents {
+    padding-top: 160px;
+    color: #fff;
+    font-family: 'Montserrat';
+}
+.banner .banner-contents .purchase-btn {
+    border: 0;
+    color: #fff;
+    padding: 20px 40px;
+    font-family: 'Montserrat';
+    border-radius: 50px;
+    font-size: 19px;
+    text-decoration: none;
+    background: #1abc9c;
+}
+
+.banner-contents p{
+	font-size: 11px;
+	font-weight: normal;
+}
+
+.banner-contents p a{
+	text-decoration: none;
+	color: #42DC79;
+}
+
+.banner-contents p a:hover{
+	color: #1abc9c;
+}
+
+.purchase-btn a:hover{
+    color: #E2EEF9;
+}
+
+.purchase-btn a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.banner h1 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 52px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+.banner h4 {
+    font-weight: normal;
+    font-size: 22px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
