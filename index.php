@@ -65,9 +65,35 @@
     <div class="comparison">
     	<div class="container">
     		<h1 class="text-center">Listen <strong>free</strong> or subcribe to <strong>Spotify Premium.</strong></h1>
+    		<div class="row-comparison">
+    			<div class="comparison-contents">
+    				<h2>Free</h2>
+    				<p>&#8369 0/month</p><br>
+    				<ul>
+    					<li>Shuffle play</li>
+    					<li>Ad Free</li>
+    					<li>Unlimited skips</li>
+    					<li>Listen offline</li>
+    					<li>Play any track</li>
+    					<li>High quality audio</li>
+    				</ul>
+    			</div>
+    			<div class="comparison-contents">
+    				<h2>Premium</h2>
+    				<p><strong>&#8369 49</strong>/3 months<br><small>Only &#8369 129/month after.</small</p>
+    				<ul>
+    					<li>Shuffle play</li>
+    					<li>Ad Free</li>
+    					<li>Unlimited skips</li>
+    					<li>Listen offline</li>
+    					<li>Play any track</li>
+    					<li>High quality audio</li>
+    				</ul>
+    			</div>
+    		</div>
     	</div>
     </div>
 
-	
+
 </body>
 </html>

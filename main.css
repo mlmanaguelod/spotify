@@ -67,7 +67,7 @@ header .logo img{
 
 .banner {
 	height: 600px;
-	background: url(..img/teaser.jpg);
+	background: url(../img/teaser.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -182,7 +182,7 @@ header .logo img{
 .comparison{
 	display: block;
 	background: #F8F8F8;
-	height: 600px;
+	height: 700px;
 }
 
 .text-center{
@@ -192,4 +192,44 @@ header .logo img{
 	font-weight: normal;
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+
+.row-comparison{
+	height: 500px;
+	margin-left: 150px;
+	margin-right: 150px;
+	background: red;
+}
+
+.comparison-contents{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 10px solid #FF6437;
+	height: 400px;
+	width: 300px;
+	margin-left: 70px;
+	margin-right: 50px;
+	margin-top: 30px;
+	background: #ffffff;
+}
+
+.comparison-contents ul li {
+	list-style: none;
+	font-family: 'Montserrat';
+	padding: 10px;
+	color: #2E2F33;
+	font-size: 16px;
+}
+
+.comparison-contents h2, p{
+	text-align: center;
+	color: #2E2F33;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.comparison-contents span {
+	text-align: center;
+	font-family: 'Montserrat';
 }
