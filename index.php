@@ -78,7 +78,8 @@
     					<li><img src="img/check-gray.jpg" />High quality audio</li>
     				</ul>
     			</div>
-    			<div class="comparison-contents">
+    			<div class="gcomparison-contents">
+    				<span class="recommended">recommended</span>
     				<h2 class="green">Premium</h2>
     				<p class="pgreen"><strong>&#8369 49</strong>/3 months<br><small>Only &#8369 129/month after.</small</p>
     				<ul>
