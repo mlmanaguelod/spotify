@@ -77,6 +77,7 @@
     					<li><img src="img/check-gray.jpg" />Play any track</li>
     					<li><img src="img/check-gray.jpg" />High quality audio</li>
     				</ul>
+    				<button class="getfree-btn"><a href="#">GET FREE</a></button>
     			</div>
     			<div class="gcomparison-contents">
     				<span class="recommended">recommended</span>
@@ -90,6 +91,7 @@
     					<li><img src="img/check-green.jpg" />Play any track</li>
     					<li><img src="img/check-green.jpg" />High quality audio</li>
     				</ul>
+    				<button class="getprem-btn"><a href="#">GET PREMIUM</a></button>
     			</div>
     		</div>
     	</div>

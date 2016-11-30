@@ -182,7 +182,7 @@ header .logo img{
 .comparison{
 	display: block;
 	background: #F8F8F8;
-	height: 700px;
+	height: 800px;
 }
 
 .text-center{
@@ -204,11 +204,11 @@ header .logo img{
 	display: inline-block;
 	vertical-align: top;
 	border-top: 22px solid #FF6437;
-	height: 500px;
+	height: 470px;
 	width: 300px;
 	margin-left: 70px;
 	margin-right: 50px;
-	margin-top: 30px;
+	margin-top: 10px;
 	background: #ffffff;
 }
 
@@ -223,6 +223,7 @@ header .logo img{
 .comparison-contents ul{
 	border-top: 1px solid #EFEFEF;
 	border-bottom: 1px solid #EFEFEF;
+	margin-top: 0px;
 }
 
 .comparison-contents h2 {
@@ -254,11 +255,11 @@ header .logo img{
 	display: inline-block;
 	vertical-align: top;
 	border-top: 1px solid #1ED760;
-	height: 520px;
+	height: 490px;
 	width: 300px;
 	margin-left: 70px;
 	margin-right: 50px;
-	margin-top: 30px;
+	margin-top: 10px;
 	background: #ffffff;
 }
 
@@ -301,6 +302,11 @@ header .logo img{
 	font-family: 'Montserrat';
 }
 
+.gcomparison-contents ul{
+	border-top: 1px solid #EFEFEF;
+	border-bottom: 1px solid #EFEFEF;
+	margin-top: 0px;
+}
 /*
 ** For the comparison h2 and p --
 */
@@ -315,10 +321,32 @@ header .logo img{
 
 .comparison-contents .porange{
 	color: #FF6437;
+	margin-bottom: 10px;
 }
 
 .gcomparison-contents .pgreen{
 	color: #1ED760;
+	margin-bottom: 10px;
 }
 
+/*
+** Get Free and Premium Button 
+*/
 
+.comparison-contents .getfree-btn {
+	max-width: 375px;
+    border: 2px solid #FF6437;
+    padding: 20px 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-size: 10px;
+    font-family: 'Montserrat';
+    border-radius: 50px;
+    text-decoration: none;
+    background: #ffffff;
+}
+
+.comparison-contents .getfree-btn a{
+	padding: 0;
+	text-decoration: none;
+}
