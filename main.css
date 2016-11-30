@@ -30,5 +30,22 @@ header .logo{
 }
 
 header .logo img{
-	
+	margin-top: 8px;
+	width: 120px;
 }
+
+.navigation{
+	float: right;
+}
+
+/*
+* Navigation
+*/
+
+.navigation li{
+	display: inline-block;
+	font-family: 'Montserrat';
+	margin-right: 25px;
+}
+
+.mavigation
