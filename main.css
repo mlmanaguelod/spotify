@@ -198,7 +198,6 @@ header .logo img{
 	height: 500px;
 	margin-left: 150px;
 	margin-right: 150px;
-	background: red;
 }
 
 .comparison-contents{
@@ -221,7 +220,14 @@ header .logo img{
 	font-size: 16px;
 }
 
-.comparison-contents h2, p{
+.comparison-contents h2 {
+	text-align: center;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.comparison-contents p{
 	text-align: center;
 	color: #2E2F33;
 	font-family: 'Montserrat';
@@ -229,7 +235,24 @@ header .logo img{
 	margin-top: 20px;
 }
 
-.comparison-contents span {
-	text-align: center;
-	font-family: 'Montserrat';
+.comparison-contents img{
+	height: 20px;
+	width: 20px;
+	padding-right: 10px;
+}
+
+.orange{
+	color: #FF6437;
+}
+
+.green{
+	color: #1ED760;
+}
+
+.comparison-contents .porange{
+	color: #FF6437;
+}
+
+.comparison-contents .pgreen{
+	color: #1ED760;
 }
