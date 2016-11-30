@@ -1,0 +1,352 @@
+body{
+	/*background: #eaeaea;*/
+	margin: 0;
+}
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	color: #F8F8F8;
+}
+
+header {
+	background: #000000;
+	padding: 15px;
+	overflow: hidden;
+}
+
+.navigation{
+	color: #fff;
+	padding: 0;
+	list-style: none;
+}
+
+/**
+*
+*/
+
+header .logo{
+	float: left;
+}
+
+header .logo img{
+	margin-top: 8px;
+	width: 120px;
+}
+
+.navigation{
+	float: right;
+}
+
+/*
+* Navigation
+*/
+
+.navigation li{
+	display: inline-block;
+	font-family: 'Montserrat';
+	margin-right: 25px;
+}
+
+.navigation li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.navigation a:hover{
+	color: #1abc9c;
+}
+
+.navigation li:last-child{
+	margin-right: 0;
+}
+
+/*
+** Banner
+*/
+
+.banner {
+	height: 600px;
+	background: url(../img/teaser.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.banner .banner-contents {
+    padding-top: 160px;
+    color: #fff;
+    font-family: 'Montserrat';
+}
+.banner .banner-contents .purchase-btn {
+    border: 0;
+    color: #fff;
+    padding: 20px 40px;
+    font-family: 'Montserrat';
+    border-radius: 50px;
+    font-size: 19px;
+    text-decoration: none;
+    background: #1abc9c;
+}
+
+.banner-contents p{
+	font-size: 11px;
+	font-weight: normal;
+}
+
+.banner-contents p a{
+	text-decoration: none;
+	color: #42DC79;
+}
+
+.banner-contents p a:hover{
+	color: #1abc9c;
+}
+
+.purchase-btn a:hover{
+    color: #E2EEF9;
+}
+
+.purchase-btn a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.banner h1 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 52px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+.banner h4 {
+    font-weight: normal;
+    font-size: 22px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+/**
+* second banner
+*/
+
+.bg-white {
+	display: block;
+	padding-top: 0px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	height: 200px;
+	
+}
+.row{
+	display: inline-block;
+	padding: 30px;
+	margin-left: 100px;
+	margin-right: 50px;
+	font-family: 'Montserrat';
+	text-align: center;
+	font-weight: normal;
+}
+
+.row p{
+	display: inline-block;
+	font-size: 12px;
+	padding: 5px;
+}
+
+.row-contents h3{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.row-contents{
+	display: inline-block;
+	vertical-align: top;
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	margin-left: 50px;
+}
+
+.row-contents img{
+	height: 50px;
+	width: 50px;
+	padding: 0;
+}
+
+.row-contents:{
+	margin-top: 5px;
+}
+
+/*
+* Comparison of Spotify Premium
+*/
+
+.comparison{
+	display: block;
+	background: #F8F8F8;
+	height: 800px;
+}
+
+.text-center{
+	color: #000000;
+	font-family: 'Montserrat';
+	text-align: center;
+	font-weight: normal;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.row-comparison{
+	height: 500px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.comparison-contents{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 22px solid #FF6437;
+	height: 470px;
+	width: 300px;
+	margin-left: 70px;
+	margin-right: 50px;
+	margin-top: 10px;
+	background: #ffffff;
+}
+
+.comparison-contents ul li {
+	list-style: none;
+	font-family: 'Montserrat';
+	padding: 10px;
+	color: #2E2F33;
+	font-size: 16px;
+}
+
+.comparison-contents ul{
+	border-top: 1px solid #EFEFEF;
+	border-bottom: 1px solid #EFEFEF;
+	margin-top: 0px;
+}
+
+.comparison-contents h2 {
+	text-align: center;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.comparison-contents p{
+	text-align: center;
+	color: #2E2F33;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.comparison-contents img{
+	height: 20px;
+	width: 20px;
+	padding-right: 10px;
+}
+
+/*
+* Comparison Content for green --
+*/
+
+.gcomparison-contents{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 1px solid #1ED760;
+	height: 490px;
+	width: 300px;
+	margin-left: 70px;
+	margin-right: 50px;
+	margin-top: 10px;
+	background: #ffffff;
+}
+
+.gcomparison-contents ul li {
+	list-style: none;
+	font-family: 'Montserrat';
+	padding: 10px;
+	color: #2E2F33;
+	font-size: 16px;
+}
+
+.gcomparison-contents h2 {
+	text-align: center;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.gcomparison-contents p{
+	text-align: center;
+	color: #2E2F33;
+	font-family: 'Montserrat';
+	margin: 0;
+	margin-top: 20px;
+}
+
+.gcomparison-contents img{
+	height: 20px;
+	width: 20px;
+	padding-right: 10px;
+}
+
+.gcomparison-contents .recommended{
+	display: block;
+	background: #1ED760;
+	padding: 2px;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+}
+
+.gcomparison-contents ul{
+	border-top: 1px solid #EFEFEF;
+	border-bottom: 1px solid #EFEFEF;
+	margin-top: 0px;
+}
+/*
+** For the comparison h2 and p --
+*/
+
+.orange{
+	color: #FF6437;
+}
+
+.green{
+	color: #1ED760;
+}
+
+.comparison-contents .porange{
+	color: #FF6437;
+	margin-bottom: 10px;
+}
+
+.gcomparison-contents .pgreen{
+	color: #1ED760;
+	margin-bottom: 10px;
+}
+
+/*
+** Get Free and Premium Button 
+*/
+
+.comparison-contents .getfree-btn {
+	max-width: 375px;
+    border: 2px solid #FF6437;
+    padding: 20px 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-size: 10px;
+    font-family: 'Montserrat';
+    border-radius: 50px;
+    text-decoration: none;
+    background: #ffffff;
+}
+
+.comparison-contents .getfree-btn a{
+	padding: 0;
+	text-decoration: none;
+}
