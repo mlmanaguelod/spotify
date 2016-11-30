@@ -35,6 +35,39 @@
 		</div>
 	</div>
 
+	<div class="bg-white">
+        <div class="container-text">
+        	<div class="row">
+            	<div class="row-contents">
+            		<img src="img/pix-play.jpg" />
+            		<h3>Play any song.</h3>
+            		<p>Just search for the music you love and hit play.</p>
+            	</div>
+            	<div class="row-contents">
+            		<img src="img/pix-dl.jpg" />
+            		<h3>Download music & listen offline.</h3>
+            		<p>No internet connection needed.</p>
+            	</div>
+            	 <div class="row-contents">
+            		 <img src="img/pix-ads.jpg" />
+            		<h3>No ads.</h3>
+            		<p>Just uninterrupted music.</p>
+            	</div>
+            	 <div class="row-contents">
+            	 	<img src="img/pix-quality.jpg" />
+            		<h3>Better sound quality.</h3>
+            		<p>Listen in high definition.</p>
+            	</div>
+            </div>
+        </div>
+    </div>
 
+    <div class="comparison">
+    	<div class="container">
+    		<h1 class="text-center">Listen <strong>free</strong> or subcribe to <strong>Spotify Premium.</strong></h1>
+    	</div>
+    </div>
+
+	
 </body>
 </html>

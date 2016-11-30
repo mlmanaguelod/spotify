@@ -122,3 +122,74 @@ header .logo img{
     font-size: 22px;
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 }
+
+/**
+* second banner
+*/
+
+.bg-white {
+	display: block;
+	padding-top: 0px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	height: 200px;
+	
+}
+.row{
+	display: inline-block;
+	padding: 30px;
+	margin-left: 100px;
+	margin-right: 50px;
+	font-family: 'Montserrat';
+	text-align: center;
+	font-weight: normal;
+}
+
+.row p{
+	display: inline-block;
+	font-size: 12px;
+	padding: 5px;
+}
+
+.row-contents h3{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.row-contents{
+	display: inline-block;
+	vertical-align: top;
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	margin-left: 50px;
+}
+
+.row-contents img{
+	height: 50px;
+	width: 50px;
+	padding: 0;
+}
+
+.row-contents:{
+	margin-top: 5px;
+}
+
+/*
+* Comparison of Spotify Premium
+*/
+
+.comparison{
+	display: block;
+	background: #F8F8F8;
+	height: 600px;
+}
+
+.text-center{
+	color: #000000;
+	font-family: 'Montserrat';
+	text-align: center;
+	font-weight: normal;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
