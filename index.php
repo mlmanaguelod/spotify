@@ -144,6 +144,20 @@
                  <li><img src="img/fb.jpg" /><a href="#"></a></li>
             </ul>
         </div>
+        <div class="ul-copyright">
+            <div class="flagcopy">
+                <a href="#">Philippines</a> <img src="img/philflag.jpg" />
+                <p class="pcopy">&copy; 2016 Spotify AB</p>
+            </div>
+            <div class="copy-container">
+                <ul class="nav-copyright">
+                    <li><a href="#">Legal</a></li>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Cookies</a></li>
+                    <li><img src="img/adchoices.jpg" /><a href="#">AdChoices</a></li>
+                 </ul>
+            </div>
+        </div>
     </footer>
 
 </body>

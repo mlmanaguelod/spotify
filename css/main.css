@@ -481,7 +481,7 @@ header .logo img{
 
 }
 .ul-container{
-	height: 250px;
+	height: 230px;
 	width: 150px;
 	margin: 15px;
 	margin-top: 40px;
@@ -546,4 +546,69 @@ header .logo img{
 
 .nav-social li{
 	display: inline-block;
+}
+
+/*
+** Copyright
+*/
+
+.ul-copyright{
+	height: 150px;
+	padding: 20px;
+	display: block;
+	vertical-align: top;
+	font-family: 'Montserrat';
+	font-weight: normal;
+	text-align: center;
+	background-color: #000000;
+}
+
+.ul-copyright a{
+	text-decoration: none;
+	color: gray;
+	font-size: 11px;
+}
+
+.ul-copyright a:hover{
+	color: #A0C3D2;
+}
+
+.ul-copyright img{
+	height: 18px;
+	width: 27px;
+}
+
+.pcopy{
+	color: gray;
+	font-weight: normal;
+	font-size: 10px;
+}
+
+.copy-container{
+	width: 500px;
+	margin-left: 250px;
+	padding-left: 0px;
+}
+
+.nav-copyright li{
+	display: inline-block;
+	padding: 5px;
+	margin: 10px;
+
+}
+
+.nav-copyright li:last-child img{
+	height: 15px;
+	width: 15px;
+}
+
+.flagcopy{
+	float: right;
+	height: 80px;
+	width: 150px;
+}
+
+.flagcopy a{
+	padding-left: 3px;
+
 }
