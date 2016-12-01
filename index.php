@@ -108,5 +108,36 @@
     	</div>
     </div>
 
+    <footer class="paa">
+        <div class="paa-container">
+           <img src="img/spotify.png"  alt="Spotify Logo" />
+        </div>
+        <div class="ul-container">
+            <h3 class="ultitles">COMPANY</h3>
+            <ul class="ulfooter">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Jobs</a></li>
+                <li><a href="#">Press</a></li>
+                <li><a href="#">News</a></li>
+            </ul>
+        </div>
+            <div class="ul-container">
+            <h3 class="ultitles">COMMUNITIES</h3>
+            <ul class="ulfooter">
+                <li><a href="#">For Artists</a></li>
+                <li><a href="#">Developers</a></li>
+                <li><a href="#">Brands</a></li>
+            </ul>
+        </div>
+            <div class="ul-container">
+            <h3 class="ultitles">USEFUL LINKS</h3>
+            <ul class="ulfooter">
+                <li><a href="#">Help</a></li>
+                <li><a href="#">Gift</a></li>
+                <li><a href="#">Web Player</a></li>
+            </ul>
+        </div>
+    </footer>
+
 </body>
 </html>

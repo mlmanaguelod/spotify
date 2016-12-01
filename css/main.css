@@ -457,3 +457,24 @@ header .logo img{
 .offer-container .container p{
 	padding-left: 15px;
 }
+
+/*
+** Footer
+*/
+
+.paa {
+	height: 400px;
+	background-color: #000000;
+}
+
+.paa-container{
+	width: 680px;
+	margin-left: 120px;
+	padding-top: 40px;
+}
+
+.paa .paa-container img{
+	width: 120px;
+	padding: 15px;
+
+}
