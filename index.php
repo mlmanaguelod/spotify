@@ -114,7 +114,7 @@
         </div>
         <div class="ul-container">
             <h3 class="ul-titles">COMPANY</h3>
-            <ul>
+            <ul class="nav">
                 <li><a href="#">About</a></li>
                 <li><a href="#">Jobs</a></li>
                 <li><a href="#">Press</a></li>
@@ -123,7 +123,7 @@
         </div>
         <div class="ul-container">
             <h3 class="ul-titles">COMMUNITIES</h3>
-            <ul>
+            <ul class="nav">
                 <li><a href="#">For Artists</a></li>
                 <li><a href="#">Developers</a></li>
                 <li><a href="#">Brands</a></li>
@@ -131,10 +131,17 @@
         </div>
         <div class="ul-container">
             <h3 class="ul-titles">USEFUL LINKS</h3>
-            <ul>
+            <ul class="nav">
                  <li><a href="#">Help</a></li>
                  <li><a href="#">Gift</a></li>
                  <li><a href="#">Web Player</a></li>
+            </ul>
+        </div>
+        <div class="ul-social">
+            <ul class="nav-social">
+                 <li><img src="img/insta.jpg" /><a href="#"></a></li>
+                 <li><img src="img/twitter.jpg"/><a href="#"></a></li>
+                 <li><img src="img/fb.jpg" /><a href="#"></a></li>
             </ul>
         </div>
     </footer>

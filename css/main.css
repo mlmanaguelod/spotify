@@ -470,7 +470,7 @@ header .logo img{
 .paa-container{
 	display: inline-block;
 	width: 200px;
-	margin-left: 120px;
+	margin-left: 110px;
 	padding-top: 40px;
 }
 
@@ -483,7 +483,7 @@ header .logo img{
 .ul-container{
 	height: 250px;
 	width: 150px;
-	margin: 20px;
+	margin: 15px;
 	margin-top: 40px;
 	padding: 20px;
 	display: inline-block;
@@ -498,6 +498,7 @@ header .logo img{
 	text-decoration: none;
 	padding: 5px;
 	text-align: center;
+	color: #ffffff;
 }
 
 .ul-container li{
@@ -508,4 +509,41 @@ header .logo img{
 
 .ul-titles{
 	color: gray;
+	font-weight: normal;
+}
+
+.nav a{
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: normal;
+}
+
+.nav a:hover{
+	color: #A0C3D2;
+}
+
+/*
+** Nav for social media
+*/
+
+.ul-social{
+	height: 250px;
+	width: 200px;
+	margin: 10px;
+	margin-top: 40px;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: 'Montserrat';
+	font-weight: normal;
+	text-align: center;
+}
+
+.nav-social img{
+	height: 50px;
+	width: 50px;
+}
+
+.nav-social li{
+	display: inline-block;
 }
