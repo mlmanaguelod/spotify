@@ -93,10 +93,20 @@
     				</ul>
     				<button class="getprem-btn"><a href="#">GET PREMIUM</a></button>
     			</div>
+                <div class="premfam">
+                    <div class="premfam-contents">
+                        <h3>Premium for Family</h3>
+                        <a href="#">LEARN MORE</a>
+                    </div>
+                </div>
+                <div class="offer-container">
+                    <div class="container">
+                        <p class="poffer">Only &#8369 129/month after. Offer not available to users who already tried Premium. <a href="premterms">Terms Apply</a></p>
+                    </div>
+                </div>
     		</div>
     	</div>
     </div>
-
 
 </body>
 </html>

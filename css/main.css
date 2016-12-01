@@ -186,7 +186,7 @@ header .logo img{
 .comparison{
 	display: block;
 	background: #F8F8F8;
-	height: 800px;
+	height: 920px;
 }
 
 .text-center{
@@ -392,4 +392,68 @@ header .logo img{
 .gcomparison-contents .getprem-btn:hover{
 	background-color: #1ED760;
 	border: 2px solid #1ED760;
+}
+
+/*
+** Premium for Family
+*/
+
+.premfam{
+	margin-top: 30px;
+	height: 100px;
+	width: 660px;
+	background: #ffffff;
+	margin-left: 100px;
+}
+
+.premfam .premfam-contents h3{
+	display: inline-block;
+	padding: 10px;
+	padding-top: 5px;
+	padding-left: 20px;
+	font-family: 'Montserrat';
+	font-size: 30px;
+	font-weight: normal;
+	color: #2EBD59;
+
+}
+
+.premfam .premfam-contents a{
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Montserrat';
+	font-size: 14px;
+	color: #2EBD59;
+	padding: 10px;
+	padding-left: 200px;
+}
+
+.premfam .premfam-contents a:hover{
+	color: #1ED760;
+}
+
+.offer-container{
+	margin-top: 30px;
+	height: 100px;
+	width: 660px;
+	margin-left: 100px;
+}
+
+.container .poffer{
+	color: #000000;
+	font-family: 'Montserrat';
+}
+
+.offer-container .container a{
+	color: #38a05c;
+	text-decoration: none;
+	font-family: 'Montserrat';
+}
+
+.offer-container .container a:hover{
+	color: #1ED760;
+}
+
+.offer-container .container p{
+	padding-left: 15px;
 }
